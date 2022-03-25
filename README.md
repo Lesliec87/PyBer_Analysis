@@ -10,6 +10,14 @@ As for the second assigment together with our manager Omar, we created a summary
 
 ### Analysis performed for [PyBer](https://github.com/Lesliec87/PyBer_Analysis/blob/main/PyBer_Challenge.ipynb)
 
+### Summary DataFrame:
+![summary_df](https://github.com/Lesliec87/PyBer_Analysis/blob/main/Resources/pyber_summary_df.png)
+
+### PyBer Chart
+![pyber_chart](https://github.com/Lesliec87/PyBer_Analysis/blob/main/Analysis/PyBer_fare_summary.png)
+
+
+
 Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 
 ## Summary: 
