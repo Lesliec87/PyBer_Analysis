@@ -24,8 +24,6 @@ Differences found in ride-sharing data among the different city types:
 
 ## Summary: 
 
-This analysis will help PyBer improve access to ride sharing services and determine affordability for underserved neighborhoods.
-
-After reviewing the city types it seems that the availability of ride sharing services are much higher in the urban and suburban areas and making it more affordable. 
+This analysis will help PyBer improve access to ride sharing services and determine affordability for underserved neighborhoods. After reviewing the city types it seems that the availability of ride sharing services are much higher in the urban and suburban areas and making it more affordable. 
 
 However, for the rural areas because there is not as much availabitly of PyBer's ride sharing services the fares are much higher and less affordable so this causes less demand for the services in this area. This can definitley be an area of opportunity to increase availability and making the fares a more consistent price compared to the other areas. 
