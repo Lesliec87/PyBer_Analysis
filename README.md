@@ -4,7 +4,7 @@
 
 We are representing being hired as a Data Analyst by PyBer, a python based ride-sharing app company. The first assignment we have for PyBer is to perform an exploratory analysis on large csv files and then report a compelling story about the data. This will be achived by writing Python scripts using Pandas, Jupyter Notebook and Matplotlib. We will create charts showcasing the relationship between the type of city, the number of drivers and rides, as well as the percetage of total fares, drivers and riders by type of city. 
 
-As for the second assigment together with our manager Omar, we created a  [summary_DataFrame](#Summary-DataFrame) of the ride-sharing data by city type and created a [multiple_line_graph](#Pyber-Chart) that shows the total weekly fares for each city type. 
+As for the second assigment together with our manager Omar, we created a  [summary DataFrame](#Summary-DataFrame) of the ride-sharing data by city type and created a [multiple-line graph](#Pyber-Chart) that shows the total weekly fares for each city type. 
 
 ## Results:   
 
