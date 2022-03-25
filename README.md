@@ -8,7 +8,7 @@ As for the second assigment together with our manager Omar, we created a  [summa
 
 ## Results:   
 
-### Analysis performed in [PyBer Challenge DataFrame](https://github.com/Lesliec87/PyBer_Analysis/blob/main/PyBer_Challenge.ipynb)
+### Analysis performed in [PyBer_Challenge DataFrame](https://github.com/Lesliec87/PyBer_Analysis/blob/main/PyBer_Challenge.ipynb)
 
 ### Summary DataFrame:
 ![summary_df](https://github.com/Lesliec87/PyBer_Analysis/blob/main/Resources/pyber_summary_df.png)
