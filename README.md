@@ -8,7 +8,7 @@ As for the second assigment together with our manager Omar, we created a summary
 
 ## Results:   
 
-Analysis performed [PyBer](https://github.com/Lesliec87/PyBer_Analysis/blob/main/PyBer_Challenge.ipynb)
+### Analysis performed for [PyBer](https://github.com/Lesliec87/PyBer_Analysis/blob/main/PyBer_Challenge.ipynb)
 
 Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 
